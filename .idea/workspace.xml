@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f3caf1cb-93ca-4751-8c46-efe6a82d3612" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc projet/.coverage" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc projet/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc projet/Copie_etudiant_bloc_3_Done.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc projet/DOCU TECHNIQUE.odt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc projet/DOCU TECHNIQUE.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc projet/Examen certifiant_BLOC3_Développement d'une solution digitale avec Python - (Projet)_MONTENOISE_CHARLES.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc projet/MANUEL MERCADONA.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc projet/MANUEL.odt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc projet/RAPPORT TEST.odt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc projet/RAPPORT TEST.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shop/prod_settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/shop/prod_settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shop/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/shop/settings.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectId" id="2PvMom4Tx9hOlEpML58KbPPs6Of" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/monte/Desktop/MERCADONA/store/static/css&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;editing.templates&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\monte\Desktop\MERCADONA\store\static\css" />
+      <recent name="C:\Users\monte\Desktop\MERCADONA\store\templates\store" />
+      <recent name="C:\Users\monte\Desktop\MERCADONA\accounts\templates\accounts" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\monte\Desktop\MERCADONA\shop" />
+      <recent name="C:\Users\monte\Desktop\MERCADONA\store\static\js" />
+      <recent name="C:\Users\monte\Desktop\MERCADONA\templates" />
+      <recent name="C:\Users\monte\Desktop\MERCADONA\media" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Python tests for tests.PromotionTestCase.test_apply_promotion" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="MERCADONA" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/store" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;tests.PromotionTestCase.test_apply_promotion&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python tests.Python tests for tests.PromotionTestCase.test_apply_promotion" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f3caf1cb-93ca-4751-8c46-efe6a82d3612" name="Changes" comment="" />
+      <created>1684333278228</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1684333278228</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="requirements.txt" />
+  </component>
+</project>

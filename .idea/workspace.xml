@@ -10,6 +10,7 @@
       <change beforePath="$PROJECT_DIR$/shop/prod_settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/shop/prod_settings.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/shop/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/shop/settings.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/shop/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/shop/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/store/static/Asset/favicon.ico" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/store/static/Asset/favicon.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/store/static/css/base.css" beforeDir="false" afterPath="$PROJECT_DIR$/store/static/css/base.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/store/static/js/session.js" beforeDir="false" afterPath="$PROJECT_DIR$/store/static/js/session.js" afterDir="false" />

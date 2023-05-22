@@ -5,20 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f3caf1cb-93ca-4751-8c46-efe6a82d3612" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/doc projet/.coverage" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/doc projet/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/doc projet/Copie_etudiant_bloc_3_Done.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/doc projet/DOCU TECHNIQUE.odt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/doc projet/DOCU TECHNIQUE.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/doc projet/Examen certifiant_BLOC3_Développement d'une solution digitale avec Python - (Projet)_MONTENOISE_CHARLES.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/doc projet/MANUEL MERCADONA.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/doc projet/MANUEL.odt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/doc projet/RAPPORT TEST.odt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/doc projet/RAPPORT TEST.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/shop/prod_settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/shop/prod_settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/shop/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/shop/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/favicon.ico" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

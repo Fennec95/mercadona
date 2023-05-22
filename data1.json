@@ -1,0 +1,365 @@
+[
+  {
+    "model": "admin.logentry",
+    "pk": 1,
+    "fields": {
+      "action_time": "2023-05-19T02:06:52.321Z",
+      "user": 1,
+      "content_type": 6,
+      "object_id": "1",
+      "object_repr": "AMD Ryzen 7 5800X (3.8 GHz / 4.7 GHz) (5)",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 2,
+    "fields": {
+      "action_time": "2023-05-19T02:38:32.185Z",
+      "user": 1,
+      "content_type": 7,
+      "object_id": "1",
+      "object_repr": "PROMO AVRIL",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 3,
+    "fields": {
+      "action_time": "2023-05-19T02:38:47.164Z",
+      "user": 1,
+      "content_type": 6,
+      "object_id": "1",
+      "object_repr": "AMD Ryzen 7 5800X (3.8 GHz / 4.7 GHz) (5)",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"Promotion\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 4,
+    "fields": {
+      "action_time": "2023-05-19T15:36:30.187Z",
+      "user": 1,
+      "content_type": 6,
+      "object_id": "2",
+      "object_repr": "AMD Ryzen 5 5600X Wraith Stealth (3.7 GHz / 4.6 GHz) (15)",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 5,
+    "fields": {
+      "action_time": "2023-05-19T15:36:51.231Z",
+      "user": 1,
+      "content_type": 6,
+      "object_id": "1",
+      "object_repr": "AMD Ryzen 7 5800X (3.8 GHz / 4.7 GHz) (5)",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"Description\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 6,
+    "fields": {
+      "action_time": "2023-05-19T15:38:10.577Z",
+      "user": 1,
+      "content_type": 6,
+      "object_id": "3",
+      "object_repr": "Intel Core i5-13600KF (3.5 GHz / 5.1 GHz) (15)",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 7,
+    "fields": {
+      "action_time": "2023-05-19T15:39:20.167Z",
+      "user": 1,
+      "content_type": 6,
+      "object_id": "4",
+      "object_repr": "Intel Core i7-13700K (3.4 GHz / 5.4 GHz) (10)",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 8,
+    "fields": {
+      "action_time": "2023-05-19T17:16:14.767Z",
+      "user": 1,
+      "content_type": 6,
+      "object_id": "3",
+      "object_repr": "Intel Core i5-13600KF (3.5 GHz / 5.1 GHz) (15)",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"Price\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 9,
+    "fields": {
+      "action_time": "2023-05-19T17:17:35.990Z",
+      "user": 1,
+      "content_type": 6,
+      "object_id": "4",
+      "object_repr": "Intel Core i7-13700K (3.4 GHz / 5.4 GHz) (10)",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"Promotion\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 10,
+    "fields": {
+      "action_time": "2023-05-19T20:05:50.135Z",
+      "user": 1,
+      "content_type": 6,
+      "object_id": "4",
+      "object_repr": "Intel Core i7-13700K (3.4 GHz / 5.4 GHz) (10)",
+      "action_flag": 2,
+      "change_message": "[]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 11,
+    "fields": {
+      "action_time": "2023-05-20T12:43:11.551Z",
+      "user": 1,
+      "content_type": 7,
+      "object_id": "1",
+      "object_repr": "PROMO AVRIL",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"End date\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 12,
+    "fields": {
+      "action_time": "2023-05-20T12:45:18.540Z",
+      "user": 1,
+      "content_type": 7,
+      "object_id": "1",
+      "object_repr": "PROMO AVRIL",
+      "action_flag": 3,
+      "change_message": ""
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 13,
+    "fields": {
+      "action_time": "2023-05-20T12:45:57.541Z",
+      "user": 1,
+      "content_type": 7,
+      "object_id": "2",
+      "object_repr": "PROMO AVRIL",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 14,
+    "fields": {
+      "action_time": "2023-05-20T12:46:08.484Z",
+      "user": 1,
+      "content_type": 6,
+      "object_id": "4",
+      "object_repr": "Intel Core i7-13700K (3.4 GHz / 5.4 GHz) (10)",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"Promotion\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 15,
+    "fields": {
+      "action_time": "2023-05-20T12:46:14.908Z",
+      "user": 1,
+      "content_type": 6,
+      "object_id": "1",
+      "object_repr": "AMD Ryzen 7 5800X (3.8 GHz / 4.7 GHz) (5)",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"Promotion\"]}}]"
+    }
+  },
+  {
+    "model": "sessions.session",
+    "pk": "lx98vbla5a9yyepmdes1fx6pcprw5ig8",
+    "fields": {
+      "session_data": ".eJxVjDsOwjAQBe_iGln-7NpASc8ZorV3gwPIluKkQtwdIqWA9s3Me6mB1qUMa5d5mFidlVWH3y1RfkjdAN-p3prOrS7zlPSm6J12fW0sz8vu_h0U6uVbhyiCzGwiJgOUQ4jWeEmjMCIYB-Q8s0NPkdCBO6EFPkIKo_ec0aj3B-U2N40:1q0hZ2:aFYLRtfwNmkZzb68mbxKNYhOF5Atq-G4xwaCicPD1QA",
+      "expire_date": "2023-06-04T11:49:28.489Z"
+    }
+  },
+  {
+    "model": "store.promotion",
+    "pk": 2,
+    "fields": {
+      "name": "PROMO AVRIL",
+      "discount": "20.00",
+      "start_date": "2023-05-20",
+      "end_date": "2023-05-21"
+    }
+  },
+  {
+    "model": "store.product",
+    "pk": 1,
+    "fields": {
+      "name": "AMD Ryzen 7 5800X (3.8 GHz / 4.7 GHz)",
+      "category": "processeur",
+      "slug": "ryzen7",
+      "price": "299.95",
+      "promotion": 2,
+      "stock": 5,
+      "description": "Le processeur AMD Ryzen 7 5800X est optimisÚ pour le jeu vidÚo : 8 Cores, 16 Threads et GameCache 36 Mo. Sans parler des frÚquences natives et boost qui atteignent des sommets pour vous permettre de profiter de vos jeux prÚfÚrÚs dans les meilleures conditions.",
+      "thumbnail": "products/LD0005746000_1_8Fbbvyc.jpg"
+    }
+  },
+  {
+    "model": "store.product",
+    "pk": 2,
+    "fields": {
+      "name": "AMD Ryzen 5 5600X Wraith Stealth (3.7 GHz / 4.6 GHz)",
+      "category": "",
+      "slug": "ryzen5",
+      "price": "212.95",
+      "promotion": null,
+      "stock": 15,
+      "description": "Le processeur AMD Ryzen 5 5600X est taillÚ pour le jeu vidÚo : 6 Cores, 12 Threads et GameCache 35 Mo. Sans parler des frÚquences natives et boost qui atteignent des sommets pour vous permettre de profiter de vos jeux prÚfÚrÚs dans les meilleures conditions.",
+      "thumbnail": "products/LD0005745995_1.jpg"
+    }
+  },
+  {
+    "model": "store.product",
+    "pk": 3,
+    "fields": {
+      "name": "Intel Core i5-13600KF (3.5 GHz / 5.1 GHz)",
+      "category": "",
+      "slug": "intel5",
+      "price": "385.95",
+      "promotion": null,
+      "stock": 15,
+      "description": "Des jeux fluides et un PC qui ne ralentit pas. En offrant encore plus de puissance pour les programmes exigeants et les jeux et plus de coeurs pour les tÔches de fond, les processeurs Intel Core de 13Þme gÚnÚration vous permettent de faire encore plus de choses et encore plus rapidement.",
+      "thumbnail": "products/LD0005982085.jpg"
+    }
+  },
+  {
+    "model": "store.product",
+    "pk": 4,
+    "fields": {
+      "name": "Intel Core i7-13700K (3.4 GHz / 5.4 GHz)",
+      "category": "",
+      "slug": "intel7",
+      "price": "559.94",
+      "promotion": 2,
+      "stock": 10,
+      "description": "Des jeux fluides et un PC qui ne ralentit pas. En offrant encore plus de puissance pour les programmes exigeants et les jeux et plus de coeurs pour les tÔches de fond, les processeurs Intel Core de 13Þme gÚnÚration vous permettent de faire encore plus de choses et encore plus rapidement",
+      "thumbnail": "products/LD0005982253.jpg"
+    }
+  },
+  {
+    "model": "store.order",
+    "pk": 1,
+    "fields": {
+      "user": 1,
+      "product": 2,
+      "quantity": 3,
+      "ordered": true,
+      "ordered_date": "2023-05-19T17:14:01.484Z"
+    }
+  },
+  {
+    "model": "store.order",
+    "pk": 2,
+    "fields": {
+      "user": 1,
+      "product": 3,
+      "quantity": 1,
+      "ordered": true,
+      "ordered_date": "2023-05-19T17:14:01.496Z"
+    }
+  },
+  {
+    "model": "store.order",
+    "pk": 3,
+    "fields": {
+      "user": 1,
+      "product": 2,
+      "quantity": 2,
+      "ordered": true,
+      "ordered_date": "2023-05-21T10:55:53.630Z"
+    }
+  },
+  {
+    "model": "store.order",
+    "pk": 4,
+    "fields": {
+      "user": 1,
+      "product": 1,
+      "quantity": 1,
+      "ordered": true,
+      "ordered_date": "2023-05-21T10:55:53.617Z"
+    }
+  },
+  {
+    "model": "store.order",
+    "pk": 5,
+    "fields": {
+      "user": 1,
+      "product": 2,
+      "quantity": 1,
+      "ordered": true,
+      "ordered_date": "2023-05-21T11:49:41.350Z"
+    }
+  },
+  {
+    "model": "store.order",
+    "pk": 6,
+    "fields": {
+      "user": 1,
+      "product": 2,
+      "quantity": 1,
+      "ordered": false,
+      "ordered_date": null
+    }
+  },
+  {
+    "model": "store.cart",
+    "pk": 4,
+    "fields": {
+      "user": 1,
+      "orders": [
+        6
+      ]
+    }
+  },
+  {
+    "model": "accounts.shopper",
+    "pk": 1,
+    "fields": {
+      "password": "pbkdf2_sha256$600000$JXwAEi1t6O3edsTpHxhCVU$xvcL1w/+l5WD/WIA/d2OY0yXy3gCESQGHUMuRcDsx7c=",
+      "last_login": "2023-05-21T11:49:28.488Z",
+      "is_superuser": true,
+      "username": "monte",
+      "first_name": "",
+      "last_name": "",
+      "is_staff": true,
+      "is_active": true,
+      "date_joined": "2023-05-19T01:55:58.111Z",
+      "email": "montenoisec@gmail.com",
+      "groups": [],
+      "user_permissions": []
+    }
+  }
+]

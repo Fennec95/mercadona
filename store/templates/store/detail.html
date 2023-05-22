@@ -1,0 +1,33 @@
+{% extends 'base.html' %}
+
+{% block content %}
+
+<div class="container">
+ <div class="box">
+    <span></span>
+    <div class="content">
+      <h2>{{ product.name }}</h2>
+        <img src="{{ product.thumbnail.url }}" alt="{{ product.name }}" style="max-width:250px;">
+        {% if product.promotion %}
+    <p style="color:yellow;font-size:200%;;text-shadow:3px 2px 6px black;">Discounted Price: €{{ discounted_price }}</p>
+    <p style="color:yellow;font-size:200%;;text-shadow:3px 2px 6px black;">Discount: {{ product.promotion.discount }}%</p>
+    <p style="color:yellow;font-size:200%;;text-shadow:3px 2px 6px black;">Promotion: {{ product.promotion.name }}</p>
+{% else %}
+    <p>Price: €{{ product.price }}</p>
+    <p>No promotion available</p>
+{% endif %}
+      <p>{{ product.description }}</p><p>{{ product.stock }} en stock</p>
+
+      {% if user.is_authenticated %}
+<p><a href="{% url 'add-to-cart' product.slug %}">
+    Ajouter l'article dans le panier</a> </p>
+{% endif %}
+    </div>
+  </div>
+</div>
+{% endblock %}
+
+{% block footer %}
+
+
+{% endblock %}

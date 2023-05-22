@@ -1,0 +1,125 @@
+*, ::before, ::after {
+box-sizing:border-box;
+margin:0px;
+padding:0px;
+}
+
+body {
+width:100vw;
+height:100vh;
+background-color:#2b2b2b;
+}
+
+#logo {
+margin-left:33%;
+width: 30%;
+height:100px;
+}
+
+.user {
+margin-left:85%;
+width:30%;
+font-size:150%;
+font-family: 'VT323', monospace;
+height:50px;
+}
+
+.search{
+margin-left:43%;
+width: 50%;
+}
+
+button {
+font-size:150%;
+border-color:white;
+background-color:#464646;
+color:white;
+font-family: 'VT323', monospace;
+height:50px;
+width:160px;
+border-radius:20% 20% 20% 20%;
+}
+
+hr {
+margin-top:50px;
+    border: 3px #ffffff;
+    border-top: 15px double #ffffff;
+    overflow: visible;
+    text-align: center;
+    height: 5px;
+}
+
+#desc-index {
+text-overflow:hidden;
+}
+
+.content{
+   color: white;
+    background-color: white;
+    animation : lights 4s linear infinite;
+    animation : blur 1s linear;
+
+}
+
+@keyframes blur {
+0% {
+    filter: blur(0px);
+    box-shadow: 2px 2px 20px white;
+}
+
+40% {
+    filter: blur(1px);
+}
+
+50% {
+    filter: blur(2px);
+}
+
+80% {
+    filter: blur(1px);
+}
+90% {
+    filter: blur(2px);
+}
+100%{
+    filter:blur(0px)
+}
+}
+
+.cart {
+width:100%;
+font-size:200%;
+margin-left:85%;
+}
+
+.panier{
+font-weight:900;
+text-decoration:none;
+color:white;
+
+}
+
+#supp {
+  display: inline-block;
+  font-size: 1.1em;
+  color: #111;
+  background: #fff;
+  padding: 10px;
+  border-radius: 4px;
+  text-decoration: none;
+  font-weight: 700;
+  margin-top: 25px;
+  margin-left: 40%;
+  margin-bottom: 55px;
+}
+
+a {
+color:white;
+text-decoration:none;
+}
+
+footer{
+z-index:-5;
+position : absolute;
+bottom:0;
+}

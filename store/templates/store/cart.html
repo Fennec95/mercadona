@@ -1,0 +1,28 @@
+{% extends 'base.html' %}
+
+{% block content %}
+
+{% for order in orders %}
+<div class="container">
+  <div class="box">
+    <span></span>
+    <div class="content">
+      <h2>{{ order.product.name }}</h2>
+        <img src="{{ order.product.thumbnail.url }}" alt="{{ order.product.name }}" style="max-width:250px;">
+        <br>
+        <br>
+     <p>{{ order.quantity }} dans le panier</p>
+    </div>
+  </div>
+</div>
+{% endfor %}
+
+ <a id="supp" href="{% url 'delete-cart' %}">Supprimer le panier</a>
+
+{% endblock %}
+
+
+
+
+
+
